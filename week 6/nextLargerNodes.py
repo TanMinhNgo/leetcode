@@ -1,4 +1,4 @@
-def nextLargerNodes(self, head: Optional[ListNode]) -> List[int]:
+def nextLargerNodes(self, head: Optional[ListNode]) -> list[int]:
     stack = []
     res = []
     i = 0

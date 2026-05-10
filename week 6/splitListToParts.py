@@ -1,4 +1,4 @@
-def splitListToParts(self, head: Optional[ListNode], k: int) -> List[Optional[ListNode]]:
+def splitListToParts(self, head: Optional[ListNode], k: int) -> list[Optional[ListNode]]:
     total_nodes = 0
     current = head
     while current:
